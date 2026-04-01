@@ -13,9 +13,9 @@ The project combines analytical workflows in a Google Colab with a visually rich
 Project Structure:
 
 Retail-Sales-Analysis
- ┣  Assessment.ipynb
- ┣  Assessment.pdf
- ┗  README.md
+  Assessment.ipynb
+  Assessment.pdf
+  README.md
 
 Key Metrics:
 
@@ -31,16 +31,20 @@ Key Insights:
 South region leads with ~75K revenue
 West and Midwest show moderate performance
 Northeast region has the lowest revenue (~40K)
+
 ->Product Category Analysis
 Clothing dominates with ~44.73% of total sales
 Accessories and Footwear follow
+
 ->Customer Demographics
 67.74% revenue from male customers
 Highest contribution from age group 55+ (29.86%)
+
 ->Seasonal Trends
 Sales are stable across seasons
 Slight peak in Fall and Winter
 Summer shows a dip in performance
+
 ->Payment & Shopping Behavior
 Popular payment methods: Credit Card, Venmo, PayPal
 Preferred delivery options:
