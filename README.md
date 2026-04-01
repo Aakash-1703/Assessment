@@ -14,7 +14,9 @@ Project Structure:
 
 Retail-Sales-Analysis
   Assessment.ipynb
+  
   Assessment.pdf
+  
   README.md
 
 Key Metrics:
