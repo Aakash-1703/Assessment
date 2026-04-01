@@ -57,7 +57,7 @@ Store Pickup
 
 Tools & Technologies:
 
-Python (Pandas, NumPy)
-Data Visualization (POWERBI)
-Google COLAB 
-Business Intelligence Dashboard
+Python (Pandas, NumPy),
+Data Visualization (POWERBI),
+Google COLAB, 
+Business Intelligence Dashboard.
