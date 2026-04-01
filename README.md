@@ -16,7 +16,7 @@ Retail-Sales-Analysis
 
 ->  Assessment.ipynb
   
-->  Assessment.pdf
+->  Assessment.pdf, Assessment.pbix, Assessment.pbit
   
 ->  README.md
 
