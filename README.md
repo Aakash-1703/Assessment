@@ -13,6 +13,7 @@ The project combines analytical workflows in a Google Colab with a visually rich
 Project Structure:
 
 Retail-Sales-Analysis
+
 ->  Assessment.ipynb
   
 ->  Assessment.pdf
